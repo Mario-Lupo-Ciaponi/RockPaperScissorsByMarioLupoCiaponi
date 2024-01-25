@@ -14,3 +14,6 @@ The purpose of this project is to practice my Git and GitHub skills. This game i
 a lot of times) so it is not something special, just a mini project :). I will implement some unique features so the experience
 will be more interesting.
 
+## Source code;
+[Source code](https://github.com/Mario-Lupo-Ciaponi/RockPaperScissorsByMarioLupoCiaponi/blob/main/rock_paper_scissors.py).
+If you encounter any bugs in my code please let me know and I will fixe them.
