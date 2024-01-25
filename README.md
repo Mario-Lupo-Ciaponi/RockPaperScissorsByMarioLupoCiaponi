@@ -6,7 +6,7 @@ This is a mini project. It is a simple game of Rock-Paper-Scissors which we all 
 - Paper beats Rock
 - Scissors beats Paper
 
-![Rock-Paper-Scissors](rock_paper_scissors_image.png)
+![rock_paper_scissors_image](rock_paper_scissors_image.png)
 
 ## Purpose of this project:
 The purpose of this project is to practice my Git and GitHub skills. This game is known to all of us(and probably made
