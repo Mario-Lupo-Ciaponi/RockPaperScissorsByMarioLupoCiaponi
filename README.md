@@ -5,7 +5,7 @@ Updates to the game will come.
 ## Rules:
 - Rock beats Scissors
 - Paper beats Rock
-- Scissors beats Paper
+- Scissors beat Paper
 
 ![rock_paper_scissors_image](rock_paper_scissors_image.png)
 
