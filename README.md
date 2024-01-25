@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors by Mario Lupo Ciaponi
-This is a mini project. It is a simple game of Rock-Paper-Scissors which we all played as kids. 
+This is a mini project. It is a simple game of Rock-Paper-Scissors which we all played as kids.
+Updates to the game will come.
 
 ## Rules:
 - Rock beats Scissors
