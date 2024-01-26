@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors by Mario Lupo Ciaponi
 This is a mini project. It is a simple game of Rock-Paper-Scissors which we all played as kids.
-Updates to the game will come.
+Gamemodes added!
 
 ## Rules:
 - Rock beats Scissors
@@ -16,4 +16,5 @@ will be more interesting.
 
 ## Source code;
 [Source code](https://github.com/Mario-Lupo-Ciaponi/RockPaperScissorsByMarioLupoCiaponi/blob/main/rock_paper_scissors.py).
-If you encounter any bugs in my code please let me know and I will fixe them.
+If you encounter any bugs in my code please let me know and I will fixe them. 
+[Replit](https://replit.com/@mariolupociapon/Rock-Paper-Scissors-By-Mario-Lupo-Ciaponi#main.py)
